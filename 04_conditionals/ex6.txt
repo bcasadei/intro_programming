@@ -1,0 +1,17 @@
+# Exercise 6
+
+# if statement is missing end
+
+6. def equal_to_four(x)
+      if x == 4
+        puts "yup"
+      else
+        puts "nope"
+        # added end
+      end
+    end
+
+    equal_to_four(5)
+
+
+
